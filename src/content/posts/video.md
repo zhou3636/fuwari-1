@@ -1,6 +1,7 @@
 ---
 title: 在帖子中包含视频
 published: 2025-05-01
+image: "https://rr.855955.xyz/111.jpg"
 description: 将B站或油管的视频放在帖子里
 tags: [B站,视频]
 category: 个人分享
