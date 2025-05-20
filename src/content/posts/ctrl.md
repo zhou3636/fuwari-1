@@ -7,6 +7,6 @@ category: 唱跳rap
 draft: false
 ---
 <video controls autoplay width="2460px">
-  <source src="https://al.855955.xyz/d/123/rr/jkkk.mp4?sign=26sDTCHIq_6S76NktyU3hWc5sfRHmEfwEPtjAMkB31M=:0" type="video/mp4">
+  <source src="https://rr.855955.xyz/kun/jkkk.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
