@@ -52,7 +52,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "https://rr.855955.xyz/kun/ccq.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "https://al.855955.xyz/d/RR/kun/ccq.jpg?sign=ATi_bUrj5QvMdOGeENCuGlHG2b9BmvLXZ41JDx_GH80=:0", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "ikun真爱粉",
 	bio: "练习两年半，喜欢唱跳rap篮球。",
 	links: [],
