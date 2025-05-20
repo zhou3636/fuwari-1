@@ -1,9 +1,9 @@
 ---
-title: 进来开始唱跳rap篮球
-published: 2050-01-01
+title: 进来一起唱跳rap篮球
+published: 2500-01-01
 description: 视频来自bilibili的小黑子：玩笑ccc
 tags: [鸡你太美]
-category: 个人分享
+category: 唱跳rap
 draft: false
 ---
 <video controls autoplay width="2460px">

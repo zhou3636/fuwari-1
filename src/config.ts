@@ -11,7 +11,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "ikun",
 	lang: "zh_CN", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
 	themeColor: {
-		hue: 210, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+		hue: 270, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
@@ -32,8 +32,8 @@ export const siteConfig: SiteConfig = {
 		// Leave this array empty to use the default favicon
 		{
 		  src: 'https://rr.855955.xyz/kun/kun.ico',    // Path of the favicon, relative to the /public directory
-		  theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-		  sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
+		  // theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
+		  // sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		}
 	],
 };
@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
 };
 
 export const licenseConfig: LicenseConfig = {
-	enable: true,
+	enable: false,
 	name: "CC BY-NC-SA 4.0",
 	url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
 };
